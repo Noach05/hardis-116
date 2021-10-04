@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#E#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "botania:mana_diamond"
+    },
+    "E": {
+      "item": "tardis:int_door"
+    }
+  },
+  "result": {
+    "item": "hardis:relative_dimension_stabiliser",
+    "count": 1
+  },
+  "group": "hardis"
+}

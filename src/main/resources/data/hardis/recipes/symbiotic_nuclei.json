@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mbe",
+    "bRb",
+    "ebn"
+  ],
+  "key": {
+    "m": {
+      "item": "botania:mana_glass"
+    },
+    "b": {
+      "item": "botania:gaia_ingot"
+    },
+    "e": {
+      "item": "tardis:cinnabar"
+    },
+    "R": {
+      "item": "regen:fobwatch"
+    },
+    "n": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "hardis:symbiotic_nuclei",
+    "count": 1
+  },
+  "group": "hardis"
+}
